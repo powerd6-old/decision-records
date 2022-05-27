@@ -2,7 +2,7 @@
 
 ## Status
 
-accepted
+accepted, updated by [0005-discard-protobuf.m](./0005-discard-protobuf.md)
 
 ## Context
 
