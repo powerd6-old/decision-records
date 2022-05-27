@@ -1,4 +1,4 @@
-# Desireable Capabilities
+# Desirable Capabilities
 
 ## Status
 

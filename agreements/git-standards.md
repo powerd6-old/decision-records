@@ -12,7 +12,7 @@ Keep in mind, a single issue can be resolved by multiple pull requests, as long 
 
 ## Commit messages
 
-Commit messages should be readeable and contain all the context necessary to explain the changes.
+Commit messages should be readable and contain all the context necessary to explain the changes.
 
 Write in all lower-case and keep these rules in mind:
 
@@ -22,7 +22,7 @@ Write in all lower-case and keep these rules in mind:
 
 As usual, keep the first line under 50 characters for brevity. More details can be added in the following lines. Remember to add a blank line between the first line and the rest of the lines for ease of reading.
 
-A good indicator that you are comitting changes that are unrelated to each other on each step is tending to use "and" or "with" on the commit message. Be mindful of this.
+A good indicator that you are committing changes that are unrelated to each other on each step is tending to use "and" or "with" on the commit message. Be mindful of this.
 
 
 ## Issues and Project tasks
@@ -44,7 +44,7 @@ The repository features should be set in the following manner:
 
 - Wiki: 🚫
 - Issues: ✅
-- Sponshorships: 🚫
+- Sponsorships: 🚫
 - Projects: 🚫
 - Preserve this repository: ✅
 - Discussions: 🚫

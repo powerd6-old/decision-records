@@ -8,7 +8,7 @@ accepted
 
 This is not the first time we've worked on a project with the potential to be long-running.
 
-As such, there is potential that large decisions will need to be made early on that will have impacts in a far-away future. It is beneficial to keep records of thses decisions, with context inclued in them to help future readers understand what, why and how decisions came to fruition.
+As such, there is potential that large decisions will need to be made early on that will have impacts in a far-away future. It is beneficial to keep records of these decisions, with context included in them to help future readers understand what, why and how decisions came to fruition.
 
 ## Decision
 

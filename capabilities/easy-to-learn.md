@@ -2,11 +2,11 @@
 
 ## Reading the rules
 
-Once the material is found, it must be readeable.
+Once the material is found, it must be readable.
 
 ### Accessibility
 
-The material should be readeable by everyone, regardless of their cirscumstances.
+The material should be readable by everyone, regardless of their circumstances.
 
 This means that multiple formats -file extensions and design/layout- should be easily available.
 
