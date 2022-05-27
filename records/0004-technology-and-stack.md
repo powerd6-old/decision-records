@@ -2,7 +2,7 @@
 
 ## Status
 
-proposed
+accepted
 
 ## Context
 
@@ -23,6 +23,7 @@ Models are specifying the structure of the data we have, and their relationships
 The contenders are:
 
 - JSON schema
+- Protocol Buffers
 - programming language "class"
 - database schema
 - free-form text specification (like an RFC)
@@ -144,12 +145,15 @@ Most programming languages are not great at dealing with constant instances of t
 
 ## Decision
 
-- Use JSON-schema for modelling objects
-- Use JSON for the content creation
+- Use Protocol Buffer for modelling objects
+  - Optionally export the protobuf objects to JSON-schema if more convenient
+- Use JSON for the content creation (data)
+  - Leverage markdown for text-processing inside the content data.
 - Use Typescript for behaviour and tooling
 - Consider using "code-generation" tools to create language-specific implementations if necessary.
 
 ## Consequences
 
 - A template for typescript projects should be created, with all relevant tooling and standards integrated on them.
-- Work on modelling objects and creating content will have to use JSON in the future.
+- Work on modelling objects with Protocol Buffers
+- Creating content will have to use JSON and markdown, with a strict model.
