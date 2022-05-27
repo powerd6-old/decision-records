@@ -1,4 +1,4 @@
-# Standarize git usage
+# Standardize git usage
 
 ## Status
 

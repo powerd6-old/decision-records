@@ -12,7 +12,7 @@ Localizing custom content to different languages should be easy and transparent.
 
 Once custom content is created, publishing it as a new book or integrating it with the "core" rules should be easy for the publishers.
 
-Legally, this should be simple and not require legal assistace to be completed.
+Legally, this should be simple and not require legal assistance to be completed.
 
 ### Using custom content with existing integrations
 
