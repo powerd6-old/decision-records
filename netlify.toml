@@ -1,0 +1,2 @@
+[build]
+  command = "" # Blank because docsify doesn't need to build
