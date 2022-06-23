@@ -1,4 +1,4 @@
-# Use shared workflows
+# Share workflows
 
 ## Status
 
