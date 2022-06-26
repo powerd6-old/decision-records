@@ -26,3 +26,4 @@ Records
 * [Technology and Stack](records/0004-technology-and-stack.md)
 * [Discard Protobuf](records/0005-discard-protobuf.md)
 * [Share Workflows](records/0006-share-workflows.md)
+* [Use Typescript instead of JsonSchemas](records/0007-use-typescript-instead-of-schemas.md)
